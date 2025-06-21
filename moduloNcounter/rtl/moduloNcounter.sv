@@ -1,3 +1,4 @@
+//sim link:- https://www.edaplayground.com/x/YTn9
 module moduloNcounter #(parameter int N = 4)
   (
     input logic clk,
