@@ -1,2 +1,1 @@
-# SystemVerilog-For-Design-
-SystemVerilog For Design
+# SystemVerilog For RTL Design
